@@ -1,7 +1,7 @@
 {
-    "url": "https://xss.smarpo.com/anhdq201.yaml",
+    "url": "https://anhdq201.github.io/swagger-xss-poc/anhdq201.yaml",
     "urls": [{
-        "url": "https://xss.smarpo.com/anhdq201.yaml",
+        "url": "https://anhdq201.github.io/swagger-xss-poc/anhdq201.yaml",
         "name": "Foo"
     }]
 }
